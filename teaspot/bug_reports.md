@@ -1,6 +1,6 @@
 ## Teaspot bugs and improvement suggestions
 
-
+|:---|:---|
 |ID	|TS-1|
 |Тип	|Дефект|
 |Модуль	|Карточка товара|
