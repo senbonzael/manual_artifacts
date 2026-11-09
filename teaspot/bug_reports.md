@@ -1,6 +1,3 @@
-## Teaspot bugs and improvement suggestions
-
-
 <details name="category">
   <summary><h2>Дефекты</h2></summary>
 <br>
