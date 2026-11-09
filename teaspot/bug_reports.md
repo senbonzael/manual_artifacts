@@ -1,5 +1,6 @@
 ## Teaspot bugs and improvement suggestions
 
+
 <details>
   <summary><h2>Дефекты<h2></summary>
 <br><br>
@@ -123,8 +124,11 @@ ID|TS-6
 <details>
   <summary><h2>Предложения по улучшению</h2></summary>
 <br>
-<details><img src="" alt="">
-<summary>Добавить постоянное отображение кнопки Личного кабинета</summary>  
+<details>
+  <summary>
+    <img src="assets/improve.svg">
+    Добавить постоянное отображение кнопки Личного кабинета
+  </summary>  
   
 ID|TS-7
 :---|:---
