@@ -122,7 +122,7 @@ ID|TS-6
 </details>
 
 <details>
-  <summary><h2>Предложения по улучшению</h2></summary>
+  <summary><img src="assets/improve.svg" width="40"><h2>Предложения по улучшению</h2></summary>
 <br>
 <details>
   <summary>
