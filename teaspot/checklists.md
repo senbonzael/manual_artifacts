@@ -583,7 +583,7 @@
             Состояние авторизации
         </td>
         <td colspan="2">
-            Пользователь не авторизован
+            <img src="assets/checklists/nautorized.svg">
         </td>
     </tr>
     <tr>
@@ -596,7 +596,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            Пользователь авторизован
+            <img src="assets/checklists/autorized.svg">
         </td>
     </tr>
     <tr>
@@ -672,7 +672,7 @@
             Автозаполнение данных
         </td>
         <td colspan="2">
-            Пользователь авторизован
+            <img src="assets/checklists/autorized.svg">
         </td>
     </tr>
     <tr>
@@ -712,7 +712,7 @@
             Поле "Ваше имя"
         </td>
         <td colspan="2">
-            Позитивные
+            <img src="assets/checklists/positive.svg">
         </td>
     </tr>
     <tr>
@@ -765,7 +765,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            Негативные
+            <img src="assets/checklists/negative.svg">
         </td>
     </tr>
     <tr>
@@ -813,7 +813,7 @@
             Поле "E-mail для чека"
         </td>
         <td colspan="2">
-            Позитивные
+            <img src="assets/checklists/positive.svg">
         </td>
     </tr>
     <tr>
@@ -826,7 +826,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            Негативные
+            <img src="assets/checklists/negative.svg">
         </td>
     </tr>
     <tr>
@@ -891,7 +891,7 @@
             Поле "Телефон"
         </td>
         <td colspan="2">
-            Позитивные
+            <img src="assets/checklists/positive.svg">
         </td>
     </tr>
     <tr>
@@ -912,7 +912,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            Негативные (страна оператора - Россия)
+            <img src="assets/checklists/negative.svg"> <img src="assets/checklists/rus.svg">
         </td>
     </tr>
     <tr>

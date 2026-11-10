@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="260" height="22">
+  <text x="0" y="18"
+        font-family="Segoe UI"
+        font-size="16"
+        font-weight="600"
+        fill="#b181ff">
+    пользователь авторизован
+  </text>
+</svg>
