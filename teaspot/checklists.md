@@ -912,7 +912,7 @@
     </tr>
     <tr>
         <td colspan="2">
-            <img src="assets/checklists/negative.svg"> <img src="assets/checklists/rus.svg">
+            <img src="assets/checklists/negative.svg"><img src="assets/checklists/operator.svg"><img src="assets/checklists/rus.svg">
         </td>
     </tr>
     <tr>
