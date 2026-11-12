@@ -3,8 +3,10 @@
   <text x="0" y="18"
         font-family="Segoe UI"
         font-size="16"
-        font-weight="600"
-        fill="#f73d5c">
+        font-weight="700"
+        fill="#b9e259"
+        stroke="black" 
+        stroke-width="0.3">
     : страна оператора
   </text>
 </svg>
