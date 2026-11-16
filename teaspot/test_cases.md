@@ -1,6 +1,5 @@
-<details>
-<br/>
-<table table-layout="fixed" width = "100%">
+<br />
+<table table-layout="fixed" width="100%">
      <tr>
           <th class="s6" width="5%">
                ID
@@ -28,7 +27,7 @@
                </span>
           </td>
           <td class="s13">
-              Закрытие корзины нажатием кнопки 'x'
+               Закрытие корзины нажатием кнопки 'x'
           </td>
           <td class="s13">
           </td>
@@ -593,7 +592,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               4. Ввести с клавиатуры большое число товаров '100000'
+               4. Ввести с клавиатуры большое число товаров <code>100000</code>
           </td>
           <td class="s16" colspan="2">
                4. В поле количества товара отображается введенное число
@@ -647,9 +646,9 @@
                2. В корзину добавлен минимум 1 товар
           </td>
           <td class="s13" overflow-wrap="anywhere">
-               e-mail: t-rex@dinosaur.com
+               e-mail <code>t-rex@dinosaur.com</code>
                <br />
-               пароль: TestyTest
+               пароль <code>TestyTest</code>
           </td>
      </tr>
      <tr>
@@ -739,10 +738,10 @@
           <td class="s13">
                1. Пользователь авторизован
                <br />
-               (e-mail: t-rex@dinosaur.com
-               <br />
-               пароль:
-               TestyTest)
+               <sub>e-mail <code>t-rex@dinosaur.com</code>
+                    <br />
+                    пароль
+                    <code>TestyTest</code></sub>
                <br />
                2. В корзину добавлен минимум 1 товар
           </td>
@@ -826,10 +825,10 @@
           <td class="s13">
                1. Пользователь авторизован
                <br />
-               (e-mail: t-rex@dinosaur.com
-               <br />
-               пароль:
-               TestyTest)
+               <sub>e-mail <code>t-rex@dinosaur.com</code>
+                    <br />
+                    пароль
+                    <code>TestyTest</code></sub>
                <br />
                2. В корзину добавлен минимум 1 товар
           </td>
@@ -918,18 +917,20 @@
                2. В корзину добавлен минимум 1 товар
           </td>
           <td class="s13" overflow-wrap="anywhere">
-               имя: Анна
+               <sub>корректные данные:</sub>
+               <br>
+               имя <code>Анна</code>
                <br />
-               e-mail: ptero@dinosaur.com
+               e-mail <code>ptero@dinosaur.com</code>
                <br />
-               телефон:
-               +7(991)666-55-44
+               телефон
+               <code>+7(991)666-55-44</code>
                <br />
-               город: Москва
+               город <code>Москва</code>
                <br />
-               комментарий:
+               комментарий
                <br />
-               Hello, привет, @@!!!
+               <code>Hello, привет, @@!!!</code>
           </td>
      </tr>
      <tr>
@@ -1178,19 +1179,19 @@
           <td class="s13">
                1. Пользователь авторизован
                <br />
-               (e-mail: t-rex@dinosaur.com
-               <br />
-               пароль:
-               TestyTest)
+               <sub>e-mail <code>t-rex@dinosaur.com</code>
+                    <br />
+                    пароль
+                    <code>TestyTest</code></sub>
                <br />
                2. В корзину добавлен минимум 1 товар
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               имя: Анна
+               имя <code>Анна</code>
                <br />
-               e-mail: ptero@dinosaur.com
+               e-mail <code>ptero@dinosaur.com</code>
                <br />
-               телефон: +7(991)666-55-44
+               телефон <code>+7(991)666-55-44</code>
           </td>
      </tr>
      <tr>
@@ -1282,9 +1283,9 @@
                <br />
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               e-mail: ptero@dinosaur.com
+               e-mail <code>ptero@dinosaur.com</code>
                <br />
-               телефон: +7(991)666-55-44
+               телефон <code>+7(991)666-55-44</code>
           </td>
      </tr>
      <tr>
@@ -1377,9 +1378,9 @@
                <br />
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               имя: Анна
+               имя <code>Анна</code>
                <br />
-               телефон: +7(991)666-55-44
+               телефон <code>+7(991)666-55-44</code>
           </td>
      </tr>
      <tr>
@@ -1472,9 +1473,9 @@
                <br />
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               имя: Анна
+               имя <code>Анна</code>
                <br />
-               e-mail: ptero@dinosaur.com
+               e-mail <code>ptero@dinosaur.com</code>
           </td>
      </tr>
      <tr>
@@ -1569,7 +1570,7 @@
                Телефон установлен код страны Россия '+7'
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               йЦqQ@ !
+               <code>йЦqQ@ !</code>
           </td>
      </tr>
      <tr>
@@ -1692,7 +1693,7 @@
      </tr>
      <tr style="height: 75px">
           <td class="s13" colspan="3">
-               3. В поле Телефон ввести 11 символов '12345678905'
+               3. В поле Телефон ввести 11 символов <code>12345678905</code>
           </td>
           <td class="s17" colspan="2">
                3. В поле отображаются первые 10 введенных цифр. 11-й символ - цифра '5' не
@@ -1778,7 +1779,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               3. В поле Телефон ввести 9 символов '987654321'
+               3. В поле Телефон ввести 9 символов <code>987654321</code>
           </td>
           <td class="s16" colspan="2">
                3. Введенное значение отображается в поле
@@ -1835,14 +1836,13 @@
                Телефон установлен код страны Россия '+7'
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               несуществующие телефоны:
+               <sub>несуществующие телефоны:</sub>
                <br />
+               <code>+70000000000</code>
                <br />
-               +70000000000
+               <code>+71111111111</code>
                <br />
-               +71111111111
-               <br />
-               +71234567890
+               <code>+71234567890</code>
           </td>
      </tr>
      <tr>
@@ -1934,27 +1934,25 @@
                2. В корзину добавлен 1 товар
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               некорректные e-mail:
+               <sub>некорректные e-mail:</sub>
                <br />
+               <code>testyemail.com</code>
                <br />
-               testyemail.com
+               <code>@mail.com</code>
                <br />
-               @mail.com
+               <code>testy@mail</code>
                <br />
-               testy@mail
+               <code>testy@mail.com</code>
                <br />
-               te
-               sty@mail.com
+               <code>testy@.com</code>
                <br />
-               testy@.com
+               <code>testy@m_ail.com</code>
                <br />
-               testy@m_ail.com
+               <code>testy@mail.comcomcomcomm</code>
                <br />
-               testy@mail.comcomcomcomm
+               <code>тест@те.ст</code>
                <br />
-               тест@те.ст
-               <br />
-               tes!ty@mail.com
+               <code>tes!ty@mail.com</code>
           </td>
      </tr>
      <tr>
@@ -2049,7 +2047,7 @@
                имя 101
                символ:
                <br />
-               Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатат
+               <code>Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатат</code>
           </td>
      </tr>
      <tr>
@@ -2141,17 +2139,17 @@
                2. В корзину добавлен 1 товар
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               некорректные имена:
+               <sub>некорректные имена:</sub>
                <br />
-               @&amp;?
+               <code>@&amp;?</code>
                <br />
-               Анна#
+               <code>Анна#</code>
                <br />
-               Д
+               <code>Д</code>
                <br />
-               ' '
+               3 пробела <code>&nbsp;&nbsp;&nbsp;</code>
                <br />
-               12345
+               <code>12345</code>
           </td>
      </tr>
      <tr>
@@ -2206,7 +2204,7 @@
      </tr>
 </table>
 <br />
-</details>
+
 <br />
 <table table-layout="fixed">
      <tr>
@@ -2244,23 +2242,23 @@
                2. В корзину добавлен 1 товар
           </td>
           <td class="s13" overflow-wrap="anywhere">
-               корректные имена:
+               <sub>корректные имена:</sub>
                <br>
-               Тать-Яна
+               <code>Тать-Яна</code>
                <br>
-               Alex Sander
+               <code>Alex Sander</code>
                <br>
-               Alexander
+               <code>Alexander</code>
                <br>
-               Та
+               2 символа: <code>Та</code>
                <br>
-               Яна
+               3 символа: <code>Яна</code>
                <br>
                99 символов:
-               Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янат
+               <code>Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янат</code>
                <br>
                100 символов:
-               Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;яната</br>
+               <code>Татьянатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;янатать&#8203;яната</code></br>
           </td>
      </tr>
      <tr>
@@ -2352,22 +2350,22 @@
                2. В корзину добавлен 1 товар
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               корректные
-               e-mail:
+               <sub>корректные
+                    e-mail:</sub>
                <br />
-               TESTY@MAIL.COM
+               <code>TESTY@MAIL.COM</code>
                <br />
-               testy123@mail.com
+               <code>testy123@mail.com</code>
                <br />
-               user.namy@mail.com
+               <code>user.namy@mail.com</code>
                <br />
-               user_namy@mail.com
+               <code>user_namy@mail.com</code>
                <br />
-               user-namy@mail.com
+               <code>user-namy@mail.com</code>
                <br />
-               testy@m.ail.com
+               <code>testy@m.ail.com</code>
                <br />
-               testy@m-ail.com
+               <code>testy@m-ail.com</code>
           </td>
      </tr>
      <tr>
@@ -2457,24 +2455,23 @@
                1. В корзину добавлен 1 товар в количестве 2 штуки
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               некорректные значения:
+               <code>некорректные значения:</code>
                <br />
-               Wr
+               <code>Wr</code>
                <br />
-               иП
+               <code>иП</code>
                <br />
-               '
-               '
+               пробел <code>&nbsp;</code>
                <br />
-               ?&amp;
+               <code>?&amp;</code>
                <br />
-               0
+               <code>0</code>
                <br />
-               -12
+               <code>-12</code>
                <br />
-               1.5
+               <code>1.5</code>
                <br />
-               1 1
+               <code>1 1</code>
           </td>
      </tr>
      <tr>
@@ -2608,7 +2605,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               3. Ввести 'нарьян' в поле Город
+               3. Ввести <code>нарьян</code> в поле Город
           </td>
           <td class="s16" colspan="2">
                3. Отображается выпадающий список с вариантами населенных пунктов
@@ -2700,7 +2697,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               3. Поле Город заполнить значением 'Москва'
+               3. Поле Город заполнить значением <code>Москва</code>
           </td>
           <td class="s16" colspan="2">
                3. Значение отображается в поле. Динамически добавлены поля: выбор способа доставки с
@@ -2743,7 +2740,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               8. Ввести 'Ново' в поле Пункт получения
+               8. Ввести <code>Ново</code> в поле Пункт получения
           </td>
           <td class="s16" colspan="2">
                8. Отображается выпадающий список Пунктов получения
@@ -2834,7 +2831,7 @@
      </tr>
      <tr>
           <td class="s15" colspan="3">
-               3. Поле Город заполнить значением 'Уфа'
+               3. Поле Город заполнить значением <code>Уфа</code>
           </td>
           <td class="s16" colspan="2">
                3. Значение отображается в поле. Динамически добавлены поля: выбор способа доставки и
@@ -2907,9 +2904,9 @@
                2. В корзине отсутствуют товары
           </td>
           <td class="s13" overflow-wrap="anywhere">
-               город: Омск
+               город <code>Омск</code>
                <br />
-               пункт получения: произвольный
+               пункт получения <code>произвольный</code>
           </td>
      </tr>
      <tr>
