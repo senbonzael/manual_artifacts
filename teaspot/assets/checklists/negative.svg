@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="92" height="22">
+     width="89" height="22">
   <text x="0" y="18"
         font-family="Segoe UI"
         font-size="16"
-        font-weight="700"
-        fill="#b9e259"
-        stroke="black" 
-        stroke-width="0.3">
+        font-weight="600"
+        fill="#6f9700">
     негативные
   </text>
 </svg>
