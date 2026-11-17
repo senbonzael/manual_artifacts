@@ -1,5 +1,5 @@
 <h2>Чек-листы тестирования веб-приложения TeaSpot</h2>
-В рамках тестирования проекта были созданы чек-листы для проверки двух важных модулей. Они охватывают ключевые функциональные возможности разделов, основные пользовательские сценарии и граничные условия, помогая систематизировать проверки и контролировать полноту тестового покрытия.
+В рамках тестирования проекта были созданы чек-листы для проверки двух важных модулей. Они охватывают ключевые функциональные возможности разделов, основные пользовательские сценарии и граничные условия. Были проведены проверки по этим чек-листам, в самих чек-листах отражены результаты проверок, а по обнаруженным дефектам составлены баг-репорты. Ознакомиться с этими и некоторыми другими баг-репортами можно по <a href="bug_reports.md">ссылке</a> или во вкладке <a href="https://github.com/senbonzael/manual_artifacts/issues">Issues</a>
 <br><br>
 <details><summary><h3>Чек-лист карточки товара</h3></summary>
 <div><h4>
@@ -13,7 +13,7 @@
   <br>
 Окружение: Windows 10 Pro Version 22H2 Google Chrome 145.0.7632.160
 <br>
-    Результат: Passed — 31 / Failed — 4</h4></div>
+    Результат: Passed — 33 / Failed — 2</h4></div>
 <br>
     <table>
     <th>
@@ -209,7 +209,7 @@
             По умолчанию в выпадающем списке выбрано минимальное значение
         </td>
         <td>
-            <img src="https://img.shields.io/badge/failed%20-%20%23ff0040?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/passed%20-%20%2318dc81?style=for-the-badge" />
         </td>
     </tr>
     <tr>
@@ -320,7 +320,7 @@
             По умолчанию в выпадающем списке выбрано минимальное значение
         </td>
         <td>
-            <img src="https://img.shields.io/badge/failed%20-%20%23ff0040?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/passed%20-%20%2318dc81?style=for-the-badge" />
         </td>
     </tr>
     <tr>
@@ -364,7 +364,7 @@
   <br>
 Окружение: Windows 10 Pro Version 22H2 Google Chrome 145.0.7632.160
 <br>
-    Результат: Passed — 79 / Failed — 4</h4></div>
+    Результат: Passed — 80 / Failed — 3</h4></div>
 <br>
 <table>
     <tr>
@@ -885,7 +885,7 @@
             Невозможность редактирования поля значением, содержащим кириллицу
         </td>
         <td>
-            <img src="https://img.shields.io/badge/failed%20-%20%23ff0040?style=for-the-badge" />
+            <img src="https://img.shields.io/badge/passed%20-%20%2318dc81?style=for-the-badge" />
         </td>
     </tr>
     <tr>
