@@ -10,10 +10,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -89,10 +89,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -176,10 +176,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -267,10 +267,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -355,10 +355,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -435,10 +435,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -524,10 +524,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -621,10 +621,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -716,10 +716,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -803,10 +803,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -892,10 +892,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1049,10 +1049,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1155,10 +1155,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1254,10 +1254,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1351,10 +1351,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1446,10 +1446,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1541,10 +1541,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1627,10 +1627,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1713,10 +1713,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1807,10 +1807,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -1908,10 +1908,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2018,10 +2018,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2113,10 +2113,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2216,10 +2216,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="15%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="40%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2324,10 +2324,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2431,10 +2431,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2544,10 +2544,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2634,10 +2634,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2767,10 +2767,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
@@ -2876,10 +2876,10 @@
           <th class="s7" width="30%">
                Название
           </th>
-          <th class="s8" width="25%">
+          <th>
                Предусловия
           </th>
-          <th class="s6" width="30%">
+          <th>
                Тестовые данные
           </th>
      </tr>
