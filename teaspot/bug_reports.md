@@ -4,7 +4,7 @@
 
 Так же с ними можно ознакомиться на вкладке [Issues](https://github.com/senbonzael/manual_artifacts/issues)
 
-<details name="category">
+<details>
   <summary><h3>Дефекты</h3></summary>
 <br>
 
@@ -133,7 +133,7 @@ ID|TS-6
 </details>
 </details>
 
-<details name="category">
+<details>
   <summary>
     <h3> Предложения по улучшению</h3></summary>
     <br>
