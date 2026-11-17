@@ -1,3 +1,4 @@
+<div align="center">
 <br />
 <table table-layout="fixed" width="100%">
      <tr valign="top">
@@ -77,6 +78,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -164,6 +166,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -255,6 +258,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -343,6 +347,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -423,6 +428,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -512,6 +518,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -609,6 +616,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -704,6 +712,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -791,6 +800,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -880,6 +890,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1037,6 +1048,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1143,6 +1155,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1242,6 +1255,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1339,6 +1353,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1434,6 +1449,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1529,6 +1545,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1615,6 +1632,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1701,6 +1719,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1795,6 +1814,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -1896,6 +1916,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2006,6 +2027,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2101,6 +2123,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2203,7 +2226,7 @@
      </tr>
 </table>
 <br />
-
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2312,6 +2335,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2419,6 +2443,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2454,7 +2479,7 @@
                1. В корзину добавлен 1 товар в количестве 2 штуки
           </td>
           <td class="s14" overflow-wrap="anywhere">
-               <code>некорректные значения:</code>
+               <sub>некорректные значения:</sub>
                <br />
                <code>Wr</code>
                <br />
@@ -2532,6 +2557,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2622,6 +2648,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2755,6 +2782,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2864,6 +2892,7 @@
      </tr>
 </table>
 <br />
+<img src="assets/delimiter.svg" width=45>
 <br />
 <table table-layout="fixed">
      <tr valign="top">
@@ -2962,3 +2991,4 @@
      </tr>
 </table>
 <br />
+</div>
